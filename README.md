@@ -4,6 +4,20 @@
 
 **[⬇ Скачать LiveDub](https://github.com/drugoj00/livedub/releases/latest)** (файл `LiveDub-2.0.exe`)
 
+## Как выглядит
+
+Окно программы, тёмная и светлая темы:
+
+![Окно LiveDub, тёмная тема](screenshots/window-dark.png)
+
+![Окно LiveDub, светлая тема](screenshots/window-light.png)
+
+Текст поверх игры (окно программы наложено на кадр из трейлера GTA 6):
+
+![Текст поверх игры, тёмная тема](screenshots/overlay-dark.png)
+
+![Текст поверх игры, светлая тема](screenshots/overlay-light.png)
+
 ## Минимальные требования
 
 | Что | Минимум |
